@@ -89,7 +89,7 @@ header{
 
 /*Banner*/
 .banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("Pusat-Studi-Kearsipan/banner.jpg") center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/Pusat-Studi-Kearsipan/banner.jpg") center/cover no-repeat fixed;
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -109,16 +109,16 @@ header{
 
 @keyframes efecto {
     20% {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("Pusat-Studi-Kearsipan/banner1.jpg") ;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/Pusat-Studi-Kearsipan/banner1.jpg") ;
     }
     40% {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("Pusat-Studi-Kearsipan/banner2.jpg") ;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/Pusat-Studi-Kearsipan/banner2.jpg") ;
     }
     60% {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("Pusat-Studi-Kearsipan/banner3.jpg") ;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/Pusat-Studi-Kearsipan/banner3.jpg") ;
     }
     80% {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("Pusat-Studi-Kearsipan/banner4.jpg") ;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/Pusat-Studi-Kearsipan/banner4.jpg") ;
     }
 }
 /*Responsive Screen*/
