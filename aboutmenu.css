@@ -9,11 +9,7 @@
     font-family: "Poppins", sans-serif;
 }
 
-/*body{
-    overflow-x: hidden;
-    color: #42424A;
-}*/
-header{
+header {
     position: relative;
     top: 0;
     left: 0;
@@ -90,8 +86,6 @@ header{
         padding-left: 1.2rem;
     }
 
-
-
 /*Banner*/
 .banner {
     background-color: sandybrown;
@@ -107,8 +101,8 @@ header{
     width: 300px;
     height: 300px;
 }
-/*Visi Misi*/
-
+    
+/*VISI MISI, PROGRAM KERJA, & STRUKTUR ORGANISASI*/
 .box-main {
     text-align: center;
     color: #4d4d4d;
@@ -211,42 +205,8 @@ header{
     margin: 70px 20px 20px 55px;
     float: left;
     border-radius: 10px;
-
-
-
+}
 
 .box-left:hover, .box-left-1:hover, .box-center:hover, .box-center-1:hover, .box-right-1:hover, .box-right:hover {
     background-color: white;
-}
-
-/*STRUKTUR*/
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: 10px;
-  text-align: center;
-  height: 330px;
-  border-radius: 6x;
-  display: grid;
-  place-items: center;
-  justify-content: space-between;
-}
-
-.img {
-    display: flex;
-    border-radius: 100%;
-    margin-top: 20px;
-    width: 220px;
-    height: 220px;
-}
-
-.name-card {
-    color: sandybrown;
-    font-size: 22px;
-    margin-top: 10px;
-}
-
-.title-card {
-    color: sandybrown;
-    font-size: 16px;
 }
